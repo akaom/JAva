@@ -1,0 +1,41 @@
+Define Dynamic Method Dispatch.
+
+
+
+Explain Interface concept with example.
+
+Write a program that executes two threads. One thread will print the even 
+
+numbers and another thread will print odd numbers from 1 to 50.
+
+Write a Java program that executes three threads. One thread displays “Thread 
+– I” every 2500 millisecond, second thread displays “Thread – II” every 5000 
+millisecond and third thread displays “Thread – III” every 7500 millisecond
+What is Thread? List different methods used to create Thread. Explain 
+Thread life cycle
+
+Explain the Java Loop Statement and Write a program in java that calculate 
+sum of 1 to 10 using do while loop
+
+Write a program in Java to demonstrate multiple try block and multiple catch 
+exception
+
+Explain Synchronization in Thread.
+
+Explain the types of inheritance with example
+
+What is Thread? List different methods used to create Thread. Explain Thread 
+life cycle.
+
+Explain how child thread is created in java. Explain with the help of a 
+program
+
+Write a program that executes two threads. One thread will print the even 
+numbers and another thread will print odd numbers from 1 to 50.
+
+Explain Exception Handling in detail.
+
+Write a program in Java to create a text file and perform read operation on the 
+text file
+
+Explain Interface concept with example. 

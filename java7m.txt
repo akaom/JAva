@@ -1,0 +1,13 @@
+Interface - 2
+inhertance
+create file and do read and write
+Thread program execute 3 thread and display at every second - 3
+thread syncronization 
+what is thread thread? create thread and life cycle  - 1
+child thread - 1
+
+Total thread asked - 6 times
+interface - 2 time
+inheritance - 1 time
+
+
